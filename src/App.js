@@ -1,5 +1,5 @@
 import "./App.css";
-import InputForm from "./InputForm";
+import InputForm from "./components/InputForm";
 import Header from "./components/Header";
 
 function App() {
